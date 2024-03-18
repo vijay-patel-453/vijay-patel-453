@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: vijji
+- 😄 Pronouns: vijju
 - ⚡ Fun fact: coding is like a lover problem
 
 <!---
