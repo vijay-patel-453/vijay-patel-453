@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web Development
 - 💞️ I’m looking to collaborate on ...coders world
 - 📫 How to reach me... if You have my number
-- 😄 Pronouns: vijju
+- 😄 Pronouns: vijay patel
 - ⚡ Fun fact: coding is like a lover's problem
 
 <!---
